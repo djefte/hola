@@ -1,9 +1,35 @@
+html,
 body {
+<<<<<<< HEAD
 	background-color: #0079fe;
+=======
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+body {
+	background-color: #222;
+>>>>>>> colores
 	font-family: Satoshi;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.contenedor {
+	background-color: #fff;
+	padding: 120px;
+	width: 120px;
+	height: 120px;
+	text-align: center;
+	border-radius: 500px;
 }
 
 h1 {
+<<<<<<< HEAD
 	background-color: #000;
 	color: #fff;
+=======
+	color: #000;
+>>>>>>> colores
 }
