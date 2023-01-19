@@ -1,20 +1,11 @@
 html,
 body {
-<<<<<<< HEAD
-	background-color: #0079fe;
-=======
 	height: 100%;
 	padding: 0;
 	margin: 0;
 }
 body {
-<<<<<<< HEAD
-	background-color: #222;
->>>>>>> colores
-	font-family: Satoshi;
-=======
 	font-family: Proxima Nova;
->>>>>>> colores
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -33,16 +24,8 @@ body {
 }
 
 h1 {
-<<<<<<< HEAD
-	background-color: #000;
-	color: #fff;
-=======
 	color: #000;
-<<<<<<< HEAD
->>>>>>> colores
-=======
 	font-size: 4em;
 	line-height: 1;
 	margin: 0;
->>>>>>> colores
 }
