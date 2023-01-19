@@ -1,8 +1,9 @@
 body {
-	background-color: aquamarine;
+	background-color: #fafafa;
 	font-family: Satoshi;
 }
 
 h1 {
 	background-color: purple;
+	color: #fff;
 }
