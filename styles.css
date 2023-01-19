@@ -1,9 +1,20 @@
 body {
 	background-color: #fafafa;
 	font-family: Satoshi;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.contenedor {
+	background-color: #fff;
+	padding: 120px;
+	width: 120px;
+	height: 120px;
+	text-align: center;
+	border-radius: 500px;
 }
 
 h1 {
-	background-color: purple;
-	color: #fff;
+	color: #000;
 }
